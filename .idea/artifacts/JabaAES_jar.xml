@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="JabaAES:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/JabaAES_jar</output-path>
+    <root id="archive" name="JabaAES.jar">
+      <element id="module-output" name="JabaAES" />
+    </root>
+  </artifact>
+</component>
